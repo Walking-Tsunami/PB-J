@@ -1,0 +1,29 @@
+/*center Fixed with body*/
+
+html {
+  background-color: chocolate;
+}
+
+body {
+  background-color: white;
+  border: 15px solid black;
+
+  width: 600px;
+  margin: 30px auto;
+  padding: 15px 25px;
+  border-radius: 15px;
+  border-block-color: black;
+}
+p {
+  font-size: larger;
+}
+ul {
+  font-size: larger;
+}
+
+ol {
+  font-size: larger;
+}
+h1 {
+  color: red;
+}
